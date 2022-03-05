@@ -1,6 +1,6 @@
 # AutoCorrection
-A teacher oriented web app that automatically labelize students written answers to open questions.
-Developped as an end of study project for the online pedagocical plateform nowledgeable.
+A teacher oriented web app that automatically labelize students written answers to open questions.\n
+Developped as an end of study project for the online pedagocical plateform nowledgeable.\n
 The original database comes from real students answers on the plateform.
 It allows:
   * Professors to add their own answers to get reference answers.
