@@ -1,14 +1,16 @@
 # AutoCorrection
-A web app to automatically correct students answers for online plateforms.
+A web app that automatically labelize students written answers to open questions in order to help teachers.
+Developped as a end of study project for the online pedagocical plateform nowledgeable.
+The original database comes from real students answers on the plateform.
 It allows:
-  * Professors to add their responses to questions to get reference answers
-  * similarity indexes between students and teachers answers
-  * binary classification to auto correct students answers
-  * Professors to translate french exercices to other languages
-  * Manual correction
+  * Professors to add their own answers to get reference answers.
+  * similarity indexes between students and teachers answers.
+  * binary classification to auto correct students answers.
+  * Professors to translate french exercices to other languages.
+  * Manual correction.
 ## Requirements
 You will need <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" target="_blank">Git</a> and <a href="https://docs.docker.com/desktop/" target="_blank">Docker Desktop</a> installed
-## Installation
+## How to test the app
 Open a command prompt to git clone this repo
 ```bash
 git clone https://github.com/LGrAr/AutoCorrection.git
