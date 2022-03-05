@@ -1,6 +1,6 @@
 # AutoCorrection
-A web app that automatically labelize students written answers to open questions in order to help teachers.
-Developped as a end of study project for the online pedagocical plateform nowledgeable.
+A teacher oriented web app that automatically labelize students written answers to open questions.
+Developped as an end of study project for the online pedagocical plateform nowledgeable.
 The original database comes from real students answers on the plateform.
 It allows:
   * Professors to add their own answers to get reference answers.
@@ -31,4 +31,4 @@ or run the docker image with your azure subscription key/location if you have on
 ```
 docker run -e SUBSCRIPTION_KEY=<your_subscription key> -e LOCATION=<your_azure_location> -p 5000:5000 <image_name>
 ```
-click <a href="http://localhost:5000/" target="_blank">http://localhost:5000/</a> or <a href="http://0.0.0.0:5000/" target="_blank">http://0.0.0.0:5000/</a> to open a web browser and access the app
+click <a href="http://localhost:5000/" target="_blank">http://localhost:5000/</a> or <a href="http://0.0.0.0:5000/" target="_blank">http://0.0.0.0:5000/</a> to access the app and test if !
