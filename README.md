@@ -5,7 +5,7 @@ The original database comes from real students answers on the plateform.\
 It allows:
   * Professors to add their own answers to get reference answers.
   * similarity indexes between students and teachers answers.
-  * binary classification to auto correct students answers.
+  * binary classification to auto correct students answers (True/False).
   * Professors to translate french exercices to other languages.
   * Manual correction.
 ## Requirements
