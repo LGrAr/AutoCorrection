@@ -32,3 +32,5 @@ or run the docker image with your azure subscription key/location if you have on
 docker run -e SUBSCRIPTION_KEY=<your_subscription key> -e LOCATION=<your_azure_location> -p 5000:5000 <image_name>
 ```
 click <a href="http://localhost:5000/" target="_blank">http://localhost:5000/</a> or <a href="http://0.0.0.0:5000/" target="_blank">http://0.0.0.0:5000/</a> to access the app and test it !
+
+For sure because of the small amount of answers, the binary classification is still far from perfect for now
